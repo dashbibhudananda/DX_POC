@@ -1,10 +1,13 @@
+/**
+ * comments
+ */
 public with sharing class Util {
     public Util() {
 
     }
 
     public String getVersion() {
-        return '0.1';
+        return '0.2';
     }
 
     public String commitOneCheck() {
