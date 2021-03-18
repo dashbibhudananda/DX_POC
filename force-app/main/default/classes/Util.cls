@@ -13,4 +13,8 @@ public with sharing class Util {
     public String commitOneCheck() {
         return 'Checking my first Commit.';
     }
+
+    public String commitSecondCheck() {
+        return 'Checking my Second Commit.';
+    }
 }
